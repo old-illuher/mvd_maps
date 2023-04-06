@@ -1,0 +1,51 @@
+C:\Users\User\Desktop\MvdMaps\MvdMaps\bin\Release\Камеры Тосненского района.exe.config
+C:\Users\User\Desktop\MvdMaps\MvdMaps\bin\Release\Камеры Тосненского района.exe
+C:\Users\User\Desktop\MvdMaps\MvdMaps\bin\Release\Камеры Тосненского района.pdb
+C:\Users\User\Desktop\MvdMaps\MvdMaps\bin\Release\EntityFramework.dll
+C:\Users\User\Desktop\MvdMaps\MvdMaps\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\MvdMaps\MvdMaps\bin\Release\GMap.NET.Core.dll
+C:\Users\User\Desktop\MvdMaps\MvdMaps\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\User\Desktop\MvdMaps\MvdMaps\bin\Release\GMap.NET.WindowsPresentation.dll
+C:\Users\User\Desktop\MvdMaps\MvdMaps\bin\Release\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MvdMaps\MvdMaps\bin\Release\System.Data.SQLite.dll
+C:\Users\User\Desktop\MvdMaps\MvdMaps\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\MvdMaps\MvdMaps\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\MvdMaps\MvdMaps\bin\Release\EntityFramework.xml
+C:\Users\User\Desktop\MvdMaps\MvdMaps\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\MvdMaps\MvdMaps\bin\Release\Newtonsoft.Json.xml
+C:\Users\User\Desktop\MvdMaps\MvdMaps\bin\Release\System.Data.SQLite.xml
+C:\Users\User\Desktop\MvdMaps\MvdMaps\bin\Release\System.Data.SQLite.dll.config
+C:\Users\User\Desktop\MvdMaps\MvdMaps\obj\Release\MvdMaps.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MvdMaps\MvdMaps\obj\Release\MvdMaps.Form1.resources
+C:\Users\User\Desktop\MvdMaps\MvdMaps\obj\Release\MvdMaps.Properties.Resources.resources
+C:\Users\User\Desktop\MvdMaps\MvdMaps\obj\Release\MvdMaps.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MvdMaps\MvdMaps\obj\Release\MvdMaps.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MvdMaps\MvdMaps\obj\Release\MvdMaps.csproj.CopyComplete
+C:\Users\User\Desktop\MvdMaps\MvdMaps\obj\Release\Камеры Тосненского района.exe
+C:\Users\User\Desktop\MvdMaps\MvdMaps\obj\Release\Камеры Тосненского района.pdb
+D:\MvdMaps\MvdMaps\bin\Release\Камеры Тосненского района.exe.config
+D:\MvdMaps\MvdMaps\bin\Release\Камеры Тосненского района.exe
+D:\MvdMaps\MvdMaps\bin\Release\Камеры Тосненского района.pdb
+D:\MvdMaps\MvdMaps\bin\Release\EntityFramework.dll
+D:\MvdMaps\MvdMaps\bin\Release\EntityFramework.SqlServer.dll
+D:\MvdMaps\MvdMaps\bin\Release\GMap.NET.Core.dll
+D:\MvdMaps\MvdMaps\bin\Release\GMap.NET.WindowsForms.dll
+D:\MvdMaps\MvdMaps\bin\Release\GMap.NET.WindowsPresentation.dll
+D:\MvdMaps\MvdMaps\bin\Release\Newtonsoft.Json.dll
+D:\MvdMaps\MvdMaps\bin\Release\System.Data.SQLite.dll
+D:\MvdMaps\MvdMaps\bin\Release\System.Data.SQLite.EF6.dll
+D:\MvdMaps\MvdMaps\bin\Release\System.Data.SQLite.Linq.dll
+D:\MvdMaps\MvdMaps\bin\Release\EntityFramework.xml
+D:\MvdMaps\MvdMaps\bin\Release\EntityFramework.SqlServer.xml
+D:\MvdMaps\MvdMaps\bin\Release\Newtonsoft.Json.xml
+D:\MvdMaps\MvdMaps\bin\Release\System.Data.SQLite.xml
+D:\MvdMaps\MvdMaps\bin\Release\System.Data.SQLite.dll.config
+D:\MvdMaps\MvdMaps\obj\Release\MvdMaps.Form1.resources
+D:\MvdMaps\MvdMaps\obj\Release\MvdMaps.Properties.Resources.resources
+D:\MvdMaps\MvdMaps\obj\Release\MvdMaps.csproj.GenerateResource.cache
+D:\MvdMaps\MvdMaps\obj\Release\MvdMaps.csproj.CoreCompileInputs.cache
+D:\MvdMaps\MvdMaps\obj\Release\MvdMaps.csproj.CopyComplete
+D:\MvdMaps\MvdMaps\obj\Release\Камеры Тосненского района.exe
+D:\MvdMaps\MvdMaps\obj\Release\Камеры Тосненского района.pdb
+D:\MvdMaps\MvdMaps\obj\Release\MvdMaps.csproj.AssemblyReference.cache
+D:\MvdMaps\MvdMaps\obj\Release\MvdMaps.csproj.SuggestedBindingRedirects.cache
